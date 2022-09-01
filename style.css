@@ -1,0 +1,41 @@
+body{ 
+    background-color: rgb(49, 0, 95);
+    font: normal 15pt Verdana;
+}
+
+header{ color:azure;
+    text-align: center;
+    
+
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.575);
+
+}
+
+footer{
+    text-align: center;
+    color: azure;
+    font-style: italic;
+
+}
+
+img{
+    border-radius: 50%;
+    max-width: 80%;
+    align-items: center;
+    margin-top:  20px;
+}
+
+div{
+    padding: 10px;
+    text-align: center;
+}
+
+
